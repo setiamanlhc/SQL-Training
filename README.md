@@ -45,7 +45,7 @@ select count(1) from film
 ```
 What you learn in this exercise?
 * count rows using count function
-*
 
-* eliminate duplicate row
-* limiting rows re
+# Filtering Rows
+# Joining Tables
+# Aggregate Function
