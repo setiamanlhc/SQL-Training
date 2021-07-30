@@ -31,13 +31,13 @@ What you learn in this exercise.
 * limit number of rows return
 * select specific columns from table
 
-## what are the avaialble special features in the film list?
+## what are the special features in the film list?
 
 ```sql
 select  special_features from film
 ```
 What you learn in this exercise:
-* eliminate duplicate rows.
+* using DISTINCT to eliminate duplicate rows.
 *
 ## what is my film inventory ?
 ```sql
